@@ -1,6 +1,7 @@
 # IPTV
 ## 直链
-[44maker's IPTV](https://raw.githubusercontent.com/44maker/IPTV/main/44maker's%20IPTV.m3u)
+- [44maker's IPTV](https://raw.githubusercontent.com/44maker/IPTV/main/44maker's%20IPTV.m3u)
+- [ddgksf2013's IPTV](https://raw.githubusercontent.com/ddgksf2013/M3U8LIST/master/IPTV2022.m3u)
 ## 国内加速
 https://raw.fastgit.org/44maker/IPTV/main/44maker's%20IPTV.m3u
 ## IPTV检查器
